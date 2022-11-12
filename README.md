@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Steven ex or Steven_ex746 of my full name.
+- 👀 I’m interested in programation, in particular video game devlopement.
+- 🌱 I’m currently learning javascript and python.
+- 💞️ I’m looking to collaborate on nothin particular for the moment.
+- 📫 You can reach me at steven.ex746@gmail.com
